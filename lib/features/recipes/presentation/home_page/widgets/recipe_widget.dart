@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:foodie/router/router_context_extension.dart';
-import 'package:foodie/services/points/points.dart';
+import 'package:NOMNOM/router/router_context_extension.dart';
+import 'package:NOMNOM/services/points/points.dart';
 import '../../../../../common/is_saved_material_button.dart';
 import '../../../domain/recipe.dart';
 import 'package:cached_network_image/cached_network_image.dart';
