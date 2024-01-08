@@ -1,10 +1,10 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter/material.dart';
-import 'package:foodie/common/main_button_widget.dart';
-import 'package:foodie/features/authentification/data/auth_repository.dart';
-import 'package:foodie/services/points/points.dart';
-import 'package:foodie/utils/async_value_ui_extension.dart';
-import 'package:foodie/utils/widgets/loader_widget.dart';
+import 'package:NOMNOM/common/main_button_widget.dart';
+import 'package:NOMNOM/features/authentification/data/auth_repository.dart';
+import 'package:NOMNOM/services/points/points.dart';
+import 'package:NOMNOM/utils/async_value_ui_extension.dart';
+import 'package:NOMNOM/utils/widgets/loader_widget.dart';
 import '../../../../constants/string_constants.dart';
 import '../../../../providers/providers.dart';
 import '../recipe_controller.dart';
