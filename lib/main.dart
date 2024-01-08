@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:foodie/services/storage/hive_storage_service.dart';
+import 'package:NOMNOM/services/storage/hive_storage_service.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'constants/storage_box_constants.dart';
 import 'features/authentification/data/auth_repository.dart';
@@ -69,7 +69,7 @@ void main() async {
   runApp(
     ProviderScope(
       overrides: [storageServiceProvider.overrideWithValue(hiveStorageService)],
-      child: const Foodie(),
+      child: const NOMNOM(),
     ),
   );
 
@@ -81,8 +81,8 @@ void main() async {
 }
 
 // ignore: must_be_immutable
-class Foodie extends StatelessWidget {
-  const Foodie({Key? key}) : super(key: key);
+class NOMNOM extends StatelessWidget {
+  const NOMNOM({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -91,7 +91,7 @@ class Foodie extends StatelessWidget {
         final goRouter = ref.watch(goRouterProvider);
         return MaterialApp.router(
           debugShowCheckedModeBanner: false,
-          title: 'Foodie Recipe App',
+          title: 'NOMNOM Recipe App',
           theme: AppThemes.primary(),
           routerDelegate: goRouter.routerDelegate,
           routeInformationParser: goRouter.routeInformationParser,
