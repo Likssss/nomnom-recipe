@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:foodie/constants/app_constants.dart';
-import 'package:foodie/router/scaffold_with_bottom_nav_controller.dart';
+import 'package:NOMNOM/constants/app_constants.dart';
+import 'package:NOMNOM/router/scaffold_with_bottom_nav_controller.dart';
 import 'package:go_router/go_router.dart';
 
 import '../constants/string_constants.dart';
