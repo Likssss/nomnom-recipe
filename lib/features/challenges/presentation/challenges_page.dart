@@ -3,7 +3,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:foodie/features/challenges/presentation/challenges_controller.dart';
+import 'package:NOMNOM/features/challenges/presentation/challenges_controller.dart';
 import 'package:intl/intl.dart';
 
 import '../../../constants/storage_box_constants.dart';
