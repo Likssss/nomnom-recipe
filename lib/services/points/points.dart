@@ -1,5 +1,5 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:foodie/providers/providers.dart';
+import 'package:NOMNOM/providers/providers.dart';
 
 import '../../constants/storage_box_constants.dart';
 
