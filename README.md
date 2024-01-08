@@ -1,6 +1,6 @@
-# Foodie Gamified Recipe App
+# NOMNOM Recipe App
 
-Foodie is a Flutter-based gamified recipe app designed to help you find culinary inspiration, cook, and compete in culinary duels. Complete challenges, earn points, and unlock rewards along the way.
+NOMNOM is a Flutter-based gamified recipe app designed to help you find culinary inspiration, cook, and compete in culinary duels. Complete challenges, earn points, and unlock rewards along the way.
 
 # Stack
 
@@ -22,18 +22,13 @@ Foodie is a Flutter-based gamified recipe app designed to help you find culinary
 - Save favorite recipes using the Hive package
 - In-app chat with camera integration
 
-# Gamified features
+# Extra features
 
 - Points system with levels: Earn points by completing challenges, cooking meals, and achieving rewards.
 - Cooking challenges: Complete challenges by cooking meals with specific ingredients.
 - Rewards: Earn achievement icons in your profile for completing challenges.
 - Duels between 2 users: Engage in a culinary duel with randomly generated recipes, and share pictures of your dishes with each other.
 
-# Packages
-
-<p float="left">
-  <img src="/screenshots/pubspec.png" width="400px" />
-</p>
 
 # Installing
 
@@ -61,41 +56,3 @@ flutter pub get
 ```
 flutter run
 ```
-
-# Screenshots
-
-<p float="left">
-  <img src="/screenshots/onboard1.jpg" width="32%" />
-  <img src="/screenshots/onboard4.jpg" width="32%" /> 
-  <img src="/screenshots/onboard5.jpg" width="32%" />
-</p>
-<p float="left">
-  <img src="/screenshots/auth1.jpg" width="32%" />
-  <img src="/screenshots/auth2.jpg" width="32%" /> 
-  <img src="/screenshots/home.jpg" width="32%" />
-</p>
-<p float="left">
-  <img src="/screenshots/desription1.jpg" width="32%" />
-  <img src="/screenshots/description2.jpg" width="32%" /> 
-  <img src="/screenshots/koraci1.jpg" width="32%" />
-</p>
-<p float="left">
-  <img src="/screenshots/koraci2.jpg" width="32%" />
-  <img src="/screenshots/koraci3.jpg" width="32%" />
-  <img src="/screenshots/saved.jpg" width="32%" />
-</p>
-<p float="left">
-  <img src="/screenshots/chall1.jpg" width="32%" />
-  <img src="/screenshots/chall2.jpg" width="32%" />
-  <img src="/screenshots/chall3.jpg" width="32%" />
-</p>
-<p float="left">
-  <img src="/screenshots/friends1.jpg" width="32%" />
-  <img src="/screenshots/friends2.jpg" width="32%" />
-  <img src="/screenshots/chat.jpg" width="32%" />
-</p>
-<p float="left">
-  <img src="/screenshots/duel1.jpg" width="32%" />
-  <img src="/screenshots/duel2.jpg" width="32%" />
-  <img src="/screenshots/profile2.jpg" width="32%" />
-</p>
