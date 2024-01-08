@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:foodie/features/challenges/presentation/challenges_controller.dart';
-import 'package:foodie/features/recipes/presentation/recipe_details/widgets/recipe_detail_app_bar.dart';
-import 'package:foodie/router/app_router.dart';
-import 'package:foodie/router/scaffold_with_bottom_nav_controller.dart';
-import 'package:foodie/services/points/points.dart';
+import 'package:NOMNOM/features/challenges/presentation/challenges_controller.dart';
+import 'package:NOMNOM/features/recipes/presentation/recipe_details/widgets/recipe_detail_app_bar.dart';
+import 'package:NOMNOM/router/app_router.dart';
+import 'package:NOMNOM/router/scaffold_with_bottom_nav_controller.dart';
+import 'package:NOMNOM/services/points/points.dart';
 
 import '../../../../common/main_button_widget.dart';
 import '../../../../constants/string_constants.dart';
