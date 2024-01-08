@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:foodie/features/authentification/data/auth_repository.dart';
-import 'package:foodie/providers/providers.dart';
+import 'package:NOMNOM/features/authentification/data/auth_repository.dart';
+import 'package:NOMNOM/providers/providers.dart';
 
 import '../../../constants/storage_box_constants.dart';
 import '../../challenges/domain/challenge.dart';
