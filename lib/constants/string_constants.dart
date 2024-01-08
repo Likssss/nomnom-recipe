@@ -1,6 +1,6 @@
 class StringConstants {
   // app name.
-  static const String appName = 'Foodie';
+  static const String appName = 'NOMNOM';
 
   // onboarding
   static const String onboardingFirstMessage = 'Find your inspiration';
