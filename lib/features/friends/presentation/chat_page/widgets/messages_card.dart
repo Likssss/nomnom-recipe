@@ -1,9 +1,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:foodie/common/main_button_widget.dart';
-import 'package:foodie/features/friends/presentation/duel_page/duel_controller.dart';
-import 'package:foodie/router/router_context_extension.dart';
+import 'package:NOMNOM/common/main_button_widget.dart';
+import 'package:NOMNOM/features/friends/presentation/duel_page/duel_controller.dart';
+import 'package:NOMNOM/router/router_context_extension.dart';
 import '../../../../../constants/message_type_constants.dart';
 import '../../../../../constants/string_constants.dart';
 import '../../../../../theme/theme.dart';
