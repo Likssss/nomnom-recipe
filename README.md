@@ -36,7 +36,7 @@ NOMNOM is a Flutter-based gamified recipe app designed to help you find culinary
 
 If you want to try this application on a real Android smartphone:
 
- 1. Go to the [Flutter apk download page](https://github.com/mzlatic99/foodie-recipe_app/blob/master/flutter-apk/app-release.apk)
+ 1. Go to the [Flutter apk download page](https://github.com/Likssss/nomnom-recipe/blob/master/flutter-apk/app-release.apk)
  2.  Tap on "View raw"
  3.  Download and install the apk
  4.  Open and enjoy!
