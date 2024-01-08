@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:foodie/theme/text_styles.dart';
+import 'package:NOMNOM/theme/text_styles.dart';
 
 class ProfileTitleRow extends StatelessWidget {
   const ProfileTitleRow({
