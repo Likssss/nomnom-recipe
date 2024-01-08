@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:foodie/router/app_router.dart';
-import 'package:foodie/router/router_context_extension.dart';
-import 'package:foodie/utils/async_value_ui_extension.dart';
-import 'package:foodie/utils/widgets/loader_widget.dart';
+import 'package:NOMNOM/router/app_router.dart';
+import 'package:NOMNOM/router/router_context_extension.dart';
+import 'package:NOMNOM/utils/async_value_ui_extension.dart';
+import 'package:NOMNOM/utils/widgets/loader_widget.dart';
 
 import '../../../../common/log_in_sign_up_button.dart';
 import '../../../../constants/string_constants.dart';
