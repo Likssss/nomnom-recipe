@@ -1,8 +1,8 @@
 import 'dart:math';
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:foodie/features/friends/presentation/chat_page/chat_controller.dart';
-import 'package:foodie/features/recipes/data/http_recipe_repository.dart';
+import 'package:NOMNOM/features/friends/presentation/chat_page/chat_controller.dart';
+import 'package:NOMNOM/features/recipes/data/http_recipe_repository.dart';
 
 import '../../../../constants/message_type_constants.dart';
 import '../../../recipes/domain/recipe.dart';
