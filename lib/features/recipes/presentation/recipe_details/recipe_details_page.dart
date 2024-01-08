@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/router/router_context_extension.dart';
-import 'package:foodie/utils/widgets/add_space.dart';
+import 'package:NOMNOM/router/router_context_extension.dart';
+import 'package:NOMNOM/utils/widgets/add_space.dart';
 import '../../../../common/main_button_widget.dart';
 import '../../../../constants/string_constants.dart';
 import '../../../../theme/theme.dart';
