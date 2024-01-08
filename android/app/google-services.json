@@ -1,41 +1,34 @@
 {
   "project_info": {
-    "project_number": "708737726793",
-    "project_id": "foodie-recipe-app",
-    "storage_bucket": "foodie-recipe-app.appspot.com"
+    "project_number": "172376583617",
+    "project_id": "nomnom2-41443",
+    "storage_bucket": "nomnom2-41443.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:708737726793:android:0bb9e209de2093259fc298",
+        "mobilesdk_app_id": "1:172376583617:android:1ac1293b832cd7aa1c5340",
         "android_client_info": {
-          "package_name": "com.example.foodie"
+          "package_name": "com.company.nomnom"
         }
       },
       "oauth_client": [
         {
-          "client_id": "708737726793-9jfmuoe8s1dubsskt02r83cbn1suss98.apps.googleusercontent.com",
+          "client_id": "172376583617-496pnhosfthgl94btjkj3u71oksk8tlc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCumm_1kNLPnfmI53MIzzzG0N9zRq4X4i0"
+          "current_key": "AIzaSyAo8LsvjNgz8rQAk3qzz6zi0RSHStZYWvA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "708737726793-9jfmuoe8s1dubsskt02r83cbn1suss98.apps.googleusercontent.com",
+              "client_id": "172376583617-496pnhosfthgl94btjkj3u71oksk8tlc.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "708737726793-g1kq4hkuo5434cd8q4uq0o6av8d78r5f.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.foodie"
-              }
             }
           ]
         }
