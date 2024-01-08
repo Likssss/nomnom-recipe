@@ -1,9 +1,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:foodie/constants/storage_box_constants.dart';
-import 'package:foodie/providers/providers.dart';
-import 'package:foodie/router/router_context_extension.dart';
+import 'package:NOMNOM/constants/storage_box_constants.dart';
+import 'package:NOMNOM/providers/providers.dart';
+import 'package:NOMNOM/router/router_context_extension.dart';
 import 'package:shimmer/shimmer.dart';
 import '../../../../constants/string_constants.dart';
 import '../../../../services/points/points.dart';
