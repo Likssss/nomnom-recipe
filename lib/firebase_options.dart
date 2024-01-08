@@ -59,10 +59,10 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCumm_1kNLPnfmI53MIzzzG0N9zRq4X4i0',
-    appId: '1:708737726793:android:0bb9e209de2093259fc298',
-    messagingSenderId: '708737726793',
-    projectId: 'foodie-recipe-app',
-    storageBucket: 'foodie-recipe-app.appspot.com',
+    apiKey: 'AIzaSyAo8LsvjNgz8rQAk3qzz6zi0RSHStZYWvA',
+    appId: '1:172376583617:android:1ac1293b832cd7aa1c5340',
+    messagingSenderId: '172376583617',
+    projectId: 'nomnom2-41443',
+    storageBucket: 'nomnom2-41443.appspot.com',
   );
 }
