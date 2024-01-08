@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:foodie/utils/widgets/add_space.dart';
+import 'package:NOMNOM/utils/widgets/add_space.dart';
 
 import '../../../../../theme/theme.dart';
 
