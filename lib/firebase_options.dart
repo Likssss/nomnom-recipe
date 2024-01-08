@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
     apiKey: '1:172376583617:web:b3ab016f7e43950e1c5340',
     appId: '1:708737726793:web:aab7601652171bb49fc298',
     messagingSenderId: '172376583617',
-    projectId: 'omnom2-41443',
+    projectId: 'nomnom2-41443',
     authDomain: 'nomnom2-41443.firebaseapp.com',
     storageBucket: 'nomnom2-41443.appspot.com',
     measurementId: "G-4N5R64H1R0"
