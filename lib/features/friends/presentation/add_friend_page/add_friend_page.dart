@@ -2,8 +2,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:foodie/features/authentification/data/auth_repository.dart';
-import 'package:foodie/router/router_context_extension.dart';
+import 'package:NOMNOM/features/authentification/data/auth_repository.dart';
+import 'package:NOMNOM/router/router_context_extension.dart';
 
 import '../../../../constants/firebase_constants.dart';
 import '../../../../constants/string_constants.dart';
