@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/utils/string_capitalize_extension.dart';
+import 'package:NOMNOM/utils/string_capitalize_extension.dart';
 
 import '../../../../../theme/text_styles.dart';
 import '../../../domain/recipe_ingredients/measurement.dart';
