@@ -1,6 +1,6 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:foodie/constants/storage_box_constants.dart';
-import 'package:foodie/features/challenges/data/challenges_data.dart';
+import 'package:NOMNOM/constants/storage_box_constants.dart';
+import 'package:NOMNOM/features/challenges/data/challenges_data.dart';
 
 import '../../../providers/providers.dart';
 import '../../../services/points/points.dart';
